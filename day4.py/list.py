@@ -1,0 +1,11 @@
+my_list=[2,3,5,7,8]
+my_list.append(9)
+print(my_list)
+my_list.remove(5)
+print(my_list)
+my_list.insert(0,5)
+print(my_list)
+my_list.pop()
+print(my_list)
+my_list.clear()
+print(my_list)
